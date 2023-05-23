@@ -32,11 +32,7 @@
 
 ## About The Project
 
-Blanja adalah proyek website E-commerce yang bertujuan untuk memberikan pengalaman belanja online yang mudah dan nyaman bagi pengguna di Indonesia. Situs ini menawarkan berbagai macam produk, termasuk fashion, kecantikan, elektronik, serta makanan dan minuman.
-
-Untuk menggunakan layanan Blanja, pengguna hanya perlu membuat akun dan memasukkan detail pembayaran. Setelah itu, pengguna dapat menelusuri produk, menambahkannya ke keranjang belanja, dan memilih metode pembayaran yang diinginkan.
-
-Dengan segala fitur dan keamanan yang diberikan, Blanja diharapkan dapat memberikan pengalaman belanja online yang aman, mudah, dan nyaman bagi pengguna di seluruh Indonesia.
+Jagongan adalah proyek situs web yang bertujuan untuk memfasilitasi komunikasi secara realtime antar pengguna yang terhubung. Dengan fitur obrolan yang mudah digunakan, pengguna dapat berkomunikasi satu sama lain dengan cepat dan efisien dalam bentuk teks. Pengguna dapat membuat akun dan dapat mengedit informasi akun seperti menambahkan foto, username, nomor telepon, dan bio.
 
 <!-- GETTING STARTED -->
 
