@@ -1,70 +1,158 @@
-# Getting Started with Create React App
+<p align="center">
+<div align="center">
+  <img height="150" src="./doc/Andika.jpg" alt="jagongan-logo" border="0"/>
+</div>
+  <h3 align="center">Jagongan</h3>
+  <p align="center">
+    <a href="https://RezaldhoArmadhani/Jagongan-FE"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="">Belum Deploy</a>
+    <br />
+    <a href="">Belum Deploy</a>
+  </p>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- TABLE OF CONTENTS -->
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Setup .env](#setup-env)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [Related Project](#related-project)
+- [Contact](#contact)
 
-### `npm start`
+<!-- ABOUT THE PROJECT -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About The Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Blanja adalah proyek website E-commerce yang bertujuan untuk memberikan pengalaman belanja online yang mudah dan nyaman bagi pengguna di Indonesia. Situs ini menawarkan berbagai macam produk, termasuk fashion, kecantikan, elektronik, serta makanan dan minuman.
 
-### `npm test`
+Untuk menggunakan layanan Blanja, pengguna hanya perlu membuat akun dan memasukkan detail pembayaran. Setelah itu, pengguna dapat menelusuri produk, menambahkannya ke keranjang belanja, dan memilih metode pembayaran yang diinginkan.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Dengan segala fitur dan keamanan yang diberikan, Blanja diharapkan dapat memberikan pengalaman belanja online yang aman, mudah, dan nyaman bagi pengguna di seluruh Indonesia.
 
-### `npm run build`
+<!-- GETTING STARTED -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This is an example of how to list things you need to use the software and how to install them.
 
-### `npm run eject`
+- [nodejs](https://nodejs.org/en/download/)
+- [Bootstrap Css](https://getbootstrap.com/)
+- [React JS](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Clone This Front End Repo
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+git clone https://github.com/RezaldhoArmadhani/Jagongan-FE
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Go To Folder Repo
 
-## Learn More
+```
+cd ui
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Install Module
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+npm install
+```
 
-### Code Splitting
+- <a href="#setup-env">Setup .env</a>
+- Type ` npm run start` To Start Website
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Setup .env
 
-### Analyzing the Bundle Size
+Create .env file in your root project folder.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
+REACT_APP_ENDPOINT = [BACKEND_URL]
+```
 
-### Making a Progressive Web App
+<!-- ROADMAP -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Screenshots
 
-### Advanced Configuration
+<table>
+ <tr>
+    <td><img width="350px" src="./doc/login.png"  border="0" border="0" alt="1" /></td>
+    <td> <img width="350px" src="./doc/register.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
+  </tr>
+   <tr>
+    <td>Login</td>
+    <td>Register</td>
+  </tr>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+  <tr>
+    <td><img width="350px" src="./doc/landing.png"  border="0" border="0" alt="3" /> </td>
+     <td><img width="350px" src="./doc/detail.png"  border="0" border="0" alt="4" /></td>
+  </tr>
+   <tr>
+    <td>Landing</td>
+    <td>Detail</td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="./doc/profile-seller.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="./doc/profile-customer.png"  border="0" border="0" alt="4" /></td>
+  </tr>
+   <tr>
+    <td>Profile Seller</td>
+    <td>Profile Customer</td>
+  </tr>
+   <tr>
+    <td><img width="350px" src="./doc/mybag.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="./doc/checkout.png"  border="0" border="0" alt="4" /></td>
+  </tr>
+   <tr>
+    <td>Mybag</td>
+    <td>Checkout</td>
+  </tr>
+   <tr>
+    <td><img width="350px" src="./doc/address.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="./doc/add-product.png"  border="0" border="0" alt="4" /></td>
+  </tr>
+   <tr>
+    <td>Address</td>
+    <td>Add Product</td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="./doc/update-product.png"  border="0" border="0" alt="4" /></td>
+  </tr>
+   <tr>
+    <td>Update Product</td>
+  </tr>
+</table>
+<!-- CONTRIBUTING -->
 
-### Deployment
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-### `npm run build` fails to minify
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Related Project
+
+:rocket: [`Backend Blanja`](https://github.com/RezaldhoArmadhani/Jagongan-BE)
+
+:rocket: [`Frontend Blanja`](https://RezaldhoArmadhani/Jagongan-FE)
+
+:rocket: [`Belum Deploy`]
+
+Project Link: [https://github.com/RezaldhoArmadhani/Blanja-FE](https://github.com/RezaldhoArmadhani/Jagongan-FE)
