@@ -145,10 +145,10 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Blanja`](https://github.com/RezaldhoArmadhani/Jagongan-BE)
+:rocket: [`Backend Jagongan`](https://github.com/RezaldhoArmadhani/Jagongan-BE)
 
-:rocket: [`Frontend Blanja`](https://RezaldhoArmadhani/Jagongan-FE)
+:rocket: [`Frontend Jagongan`](https://RezaldhoArmadhani/Jagongan-FE)
 
 :rocket: [`Belum Deploy`]
 
-Project Link: [https://github.com/RezaldhoArmadhani/Blanja-FE](https://github.com/RezaldhoArmadhani/Jagongan-FE)
+Project Link: [https://github.com/RezaldhoArmadhani/Jagongan-FE](https://github.com/RezaldhoArmadhani/Jagongan-FE)
