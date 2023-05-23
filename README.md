@@ -1,8 +1,8 @@
 <p align="center">
 <div align="center">
-  <img height="150" src="./doc/Andika.jpg" alt="jagongan-logo" border="0"/>
+  <img height="150" src="./doc/Brand.png" alt="jagongan-logo" border="0"/>
 </div>
-  <h3 align="center">Jagongan</h3>
+  <h3 align="center">Jagongan App</h3>
   <p align="center">
     <a href="https://RezaldhoArmadhani/Jagongan-FE"><strong>Explore the docs »</strong></a>
     <br />
