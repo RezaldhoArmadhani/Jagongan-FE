@@ -4,11 +4,11 @@
 </div>
   <h3 align="center">Jagongan App</h3>
   <p align="center">
-    <a href="https://RezaldhoArmadhani/Jagongan-FE"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RezaldhoArmadhani/Jagongan-FE"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="">Belum Deploy</a>
+    <a href="https://jagongan-fe.vercel.app/">View Demo</a>
     <br />
-    <a href="">Belum Deploy</a>
+    <a href="https://jagongan-be-production.up.railway.app">Api Demo</a>
   </p>
 </p>
 
@@ -84,8 +84,8 @@ REACT_APP_ENDPOINT = [BACKEND_URL]
 
 <table>
  <tr>
-    <td><img width="350px" src="./doc/login.png"  border="0" border="0" alt="1" /></td>
-    <td> <img width="350px" src="./doc/register.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
+    <td><img width="350px" src="./doc/Login.png"  border="0" border="0" alt="1" /></td>
+    <td> <img width="350px" src="./doc/Register.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
   </tr>
    <tr>
     <td>Login</td>
@@ -93,42 +93,20 @@ REACT_APP_ENDPOINT = [BACKEND_URL]
   </tr>
 
   <tr>
-    <td><img width="350px" src="./doc/landing.png"  border="0" border="0" alt="3" /> </td>
-     <td><img width="350px" src="./doc/detail.png"  border="0" border="0" alt="4" /></td>
+    <td><img width="350px" src="./doc/Landing.png"  border="0" border="0" alt="3" /> </td>
+     <td><img width="350px" src="./doc/Chat.png"  border="0" border="0" alt="4" /></td>
   </tr>
    <tr>
     <td>Landing</td>
-    <td>Detail</td>
+    <td>Chat</td>
   </tr>
   <tr>
-    <td><img width="350px" src="./doc/profile-seller.png"  border="0" border="0" alt="3" /> </td>
-    <td><img width="350px" src="./doc/profile-customer.png"  border="0" border="0" alt="4" /></td>
+    <td><img width="350px" src="./doc/Profile User.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="./doc/Profile Friend.png"  border="0" border="0" alt="4" /></td>
   </tr>
    <tr>
-    <td>Profile Seller</td>
-    <td>Profile Customer</td>
-  </tr>
-   <tr>
-    <td><img width="350px" src="./doc/mybag.png"  border="0" border="0" alt="3" /> </td>
-    <td><img width="350px" src="./doc/checkout.png"  border="0" border="0" alt="4" /></td>
-  </tr>
-   <tr>
-    <td>Mybag</td>
-    <td>Checkout</td>
-  </tr>
-   <tr>
-    <td><img width="350px" src="./doc/address.png"  border="0" border="0" alt="3" /> </td>
-    <td><img width="350px" src="./doc/add-product.png"  border="0" border="0" alt="4" /></td>
-  </tr>
-   <tr>
-    <td>Address</td>
-    <td>Add Product</td>
-  </tr>
-  <tr>
-    <td><img width="350px" src="./doc/update-product.png"  border="0" border="0" alt="4" /></td>
-  </tr>
-   <tr>
-    <td>Update Product</td>
+    <td>Profile User</td>
+    <td>Profile Friend</td>
   </tr>
 </table>
 <!-- CONTRIBUTING -->
@@ -147,8 +125,8 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Backend Jagongan`](https://github.com/RezaldhoArmadhani/Jagongan-BE)
 
-:rocket: [`Frontend Jagongan`](https://RezaldhoArmadhani/Jagongan-FE)
+:rocket: [`Frontend Jagongan`](https://github.com/RezaldhoArmadhani/Jagongan-FE)
 
-:rocket: [`Belum Deploy`]
+:rocket: [`Demo Jagongan`](https://jagongan-fe.vercel.app/)
 
 Project Link: [https://github.com/RezaldhoArmadhani/Jagongan-FE](https://github.com/RezaldhoArmadhani/Jagongan-FE)
