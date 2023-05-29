@@ -32,7 +32,7 @@
 
 ## About The Project
 
-Jagongan adalah proyek situs web yang bertujuan untuk memfasilitasi komunikasi secara realtime antar pengguna yang terhubung. Dengan fitur obrolan yang mudah digunakan, pengguna dapat berkomunikasi satu sama lain dengan cepat dan efisien dalam bentuk teks. Pengguna dapat membuat akun dan dapat mengedit informasi akun seperti menambahkan foto, username, nomor telepon, dan bio.
+Jagongan is a website project that aims to facilitate realtime communication between connected users. With the easy-to-use chat feature, users can communicate with each other quickly and efficiently in text form. Users can create accounts and can edit account information such as adding photos, usernames, phone numbers and bio.
 
 <!-- GETTING STARTED -->
 
