@@ -40,6 +40,7 @@ const Login = () => {
     const { token, refreshToken, ...user } = res.data;
     dispatch(setCredentials({ user: user, token: res?.data?.token }));
   };
+  console.log(data);
 
   useEffect(() => {
     if (isSuccess) {

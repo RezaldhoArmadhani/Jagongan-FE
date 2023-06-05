@@ -34,7 +34,9 @@ function ModalVertikal(props) {
               <img src={data?.photo || admin} alt="" width={150} height={150} />
               <span className="text-center text-light">
                 <h1 className="text-light pt-4">
-                  {data?.username !== undefined ? "User" : data?.username}
+                  {data?.username !== undefined
+                    ? "Jagongan User"
+                    : data?.username}
                 </h1>
                 <p className="m-0">{data?.phone}</p>
                 <div className="bg-main-darkmagenta w-100 h-25 mt-4 rounded p-3">
