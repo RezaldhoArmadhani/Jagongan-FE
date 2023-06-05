@@ -1,70 +1,132 @@
-# Getting Started with Create React App
+<p align="center">
+<div align="center">
+  <img height="150" src="./doc/Brand.png" alt="jagongan-logo" border="0"/>
+</div>
+  <h3 align="center">Jagongan App</h3>
+  <p align="center">
+    <a href="https://github.com/RezaldhoArmadhani/Jagongan-FE"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="https://jagongan-fe.vercel.app/">View Demo</a>
+    <br />
+    <a href="https://jagongan-be-production.up.railway.app">Api Demo</a>
+  </p>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- TABLE OF CONTENTS -->
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Setup .env](#setup-env)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [Related Project](#related-project)
+- [Contact](#contact)
 
-### `npm start`
+<!-- ABOUT THE PROJECT -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About The Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Jagongan is a website project that aims to facilitate realtime communication between connected users. With the easy-to-use chat feature, users can communicate with each other quickly and efficiently in text form. Users can create accounts and can edit account information such as adding photos, usernames, phone numbers and bio.
 
-### `npm test`
+<!-- GETTING STARTED -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This is an example of how to list things you need to use the software and how to install them.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [nodejs](https://nodejs.org/en/download/)
+- [Bootstrap Css](https://getbootstrap.com/)
+- [React JS](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Installation
 
-### `npm run eject`
+- Clone This Front End Repo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+git clone https://github.com/RezaldhoArmadhani/Jagongan-FE
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Go To Folder Repo
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+cd Jagongan-FE
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Install Module
 
-## Learn More
+```
+npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- <a href="#setup-env">Setup .env</a>
+- Type ` npm run start` To Start Website
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Setup .env
 
-### Code Splitting
+Create .env file in your root project folder.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+REACT_APP_ENDPOINT = [BACKEND_URL]
+```
 
-### Analyzing the Bundle Size
+<!-- ROADMAP -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Screenshots
 
-### Making a Progressive Web App
+<table>
+ <tr>
+    <td><img width="350px" src="./doc/Login.png"  border="0" border="0" alt="1" /></td>
+    <td> <img width="350px" src="./doc/Register.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
+  </tr>
+   <tr>
+    <td>Login</td>
+    <td>Register</td>
+  </tr>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  <tr>
+    <td><img width="350px" src="./doc/Landing.png"  border="0" border="0" alt="3" /> </td>
+     <td><img width="350px" src="./doc/Chat.png"  border="0" border="0" alt="4" /></td>
+  </tr>
+   <tr>
+    <td>Landing</td>
+    <td>Chat</td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="./doc/Profile User.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="./doc/Profile Friend.png"  border="0" border="0" alt="4" /></td>
+  </tr>
+   <tr>
+    <td>Profile User</td>
+    <td>Profile Friend</td>
+  </tr>
+</table>
+<!-- CONTRIBUTING -->
 
-### Advanced Configuration
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-### Deployment
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Related Project
 
-### `npm run build` fails to minify
+:rocket: [`Backend Jagongan`](https://github.com/RezaldhoArmadhani/Jagongan-BE)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+:rocket: [`Frontend Jagongan`](https://github.com/RezaldhoArmadhani/Jagongan-FE)
+
+:rocket: [`Demo Jagongan`](https://jagongan-fe.vercel.app/)
+
+Project Link: [https://github.com/RezaldhoArmadhani/Jagongan-FE](https://github.com/RezaldhoArmadhani/Jagongan-FE)
